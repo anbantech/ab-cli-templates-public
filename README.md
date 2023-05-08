@@ -13,5 +13,5 @@ Example of using RollupJS + TypeScript + WebWorkers
 ## vscode-plugin
 HelloWorld example for VS Code
 
-## 更新模板
-请切换到对应的分支进行更新，如 `vue` 分支对应vue2.7模板代码
+## 创建/更新模板
+请创建（如无该模板分支）并切换到对应的分支进行更新，如 `vue` 分支对应vue2.7模板代码
