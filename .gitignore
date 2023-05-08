@@ -4,6 +4,7 @@
 .history
 .abfuzz
 .bak
+.DS_Store
 
 # Build dir
 dist
