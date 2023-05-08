@@ -10,7 +10,19 @@
   "templates": [
     {
       "name": "vue",
-      "description": "vue2.7+vite+pinia+vue-router+ab-vue-components+eslint+"
+      "description": "vue2.7+vite+pinia+vue-router+ab-vue-components+eslint"
+    },
+    {
+      "name": "vue3",
+      "description": "vue3+vite+pinia+vue-router+ab-vue-components+eslint"
+    },
+    {
+      "name": "rollup",
+      "description": "Example of using RollupJS + TypeScript + WebWorkers"
+    },
+    {
+      "name": "vscode-plugin",
+      "description": "HelloWorld example for VS Code"
     }
   ]
 }
