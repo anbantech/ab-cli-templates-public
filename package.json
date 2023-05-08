@@ -1,0 +1,16 @@
+{
+  "name": "ab-cli-templates-public",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "templates": [
+    {
+      "name": "vue",
+      "description": "vue2.7+vite+pinia+vue-router+ab-vue-components+eslint+"
+    }
+  ]
+}
