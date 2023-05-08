@@ -1,17 +1,27 @@
-# 安般前端模板库
-包含vue2.7、vue3、vscode plugin等常用模板，需要通过 `ab-cli` 工具使用。
+# Hello World Sample
 
-## vue
-vue2.7+vite+pinia+vue-router+ab-vue-components+eslint
+This is a Hello World example that shows you how to use VS Code API.
 
-## vue3
-vue3+vite+pinia+vue-router+ab-vue-components+eslint
+Guide for this sample: https://code.visualstudio.com/api/get-started/your-first-extension.
 
-## rollup
-Example of using RollupJS + TypeScript + WebWorkers
+## Demo
 
-## vscode-plugin
-HelloWorld example for VS Code
+![demo](demo.gif)
 
-## 更新模板
-请切换到对应的分支进行更新，如 `vue` 分支对应vue2.7模板代码
+## VS Code API
+
+### `vscode` module
+
+- [`commands.registerCommand`](https://code.visualstudio.com/api/references/vscode-api#commands.registerCommand)
+- [`window.showInformationMessage`](https://code.visualstudio.com/api/references/vscode-api#window.showInformationMessage)
+
+### Contribution Points
+
+- [`contributes.commands`](https://code.visualstudio.com/api/references/contribution-points#contributes.commands)
+
+## Running the Sample
+
+- Run `npm install` in terminal to install dependencies
+- Run the `Run Extension` target in the Debug View. This will:
+	- Start a task `npm: watch` to compile the code
+	- Run the extension in a new VS Code window
