@@ -7,7 +7,7 @@
   },
   "author": "",
   "license": "ISC",
-  "templates": [
+  "topics": [
     {
       "name": "vue",
       "description": "vue2.7+vite+pinia+vue-router+ab-vue-components+eslint"
