@@ -1,17 +1,24 @@
-# 安般前端模板库
-包含vue2.7、vue3、vscode plugin等常用模板，需要通过 `ab-cli` 工具使用。
+# frontend
 
-## vue
-vue2.7+vite+pinia+vue-router+ab-vue-components+eslint
+## Project setup
+```
+npm install
+```
 
-## vue3
-vue3+vite+pinia+vue-router+ab-vue-components+eslint
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-## rollup
-Example of using RollupJS + TypeScript + WebWorkers
+### Compiles and minifies for production
+```
+npm run build
+```
 
-## vscode-plugin
-HelloWorld example for VS Code
+### Lints and fixes files
+```
+npm run lint
+```
 
-## 更新模板
-请切换到对应的分支进行更新，如 `vue` 分支对应vue2.7模板代码
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
