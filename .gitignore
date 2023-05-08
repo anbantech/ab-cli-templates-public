@@ -4,7 +4,6 @@
 .history
 .abfuzz
 .bak
-.DS_Store
 
 # Build dir
 dist
@@ -47,3 +46,5 @@ node_modules/
 # Output of 'npm pack'
 *.tgz
 *.zip
+
+.DS_Store
